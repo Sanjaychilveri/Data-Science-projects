@@ -1,0 +1,5 @@
+We will collect the stock data---NSE-TATAGLOBAL---done
+preprocess the data -train and test ---done
+create an stacked  LSTM model---done
+predict the test data and plot the output---done
+predict the future 30 days and plot the output---done
